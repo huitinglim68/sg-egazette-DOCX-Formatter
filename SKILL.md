@@ -1,3 +1,8 @@
+---
+name: egazette-docx-formatter
+description: Formats final e-Gazette rows for DOCX export with clickable reference markers in the Summary column. Use this skill when you have an ordered list of final notice data and need to prepare a 5-column table for DOCX output.
+---
+
 # e-Gazette DOCX Formatter
 
 This skill provides instructions for preparing a final table of e-Gazette notices specifically for DOCX export. It ensures that reference links are preserved as clickable markers within the Summary field.
